@@ -29,6 +29,7 @@ h2 {
 }
 
 #img-div {
+  display: block;
   border-radius: 2px;
   background-color:  rgba(58, 27, 31, 1);
   padding: 10 10;
@@ -90,13 +91,14 @@ text-align: left;
 }
 
 #footer-image{
+display: block;
 background-color: #E8EAEF;
 margin: 100 auto;
  
 }
 
 #gatsu{
-  
+  display: block;
   max-width: 80%;
   padding: 60;
  
@@ -111,12 +113,14 @@ margin: 100 auto;
 }
 
 #links{
+  display: block;
   background-color: rgba(58, 27, 31, 1);
   padding-top: 15;
   padding-bottom: 5;
 }
  
 a{
+  display: block;
   margin: 40;
   color: white;
 }
