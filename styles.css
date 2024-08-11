@@ -72,7 +72,7 @@ ul {
 }
 
 li {
-  
+  display: block;
   margin: 16px auto;
 }
 
@@ -98,7 +98,7 @@ margin: 100 auto;
 }
 
 #gatsu{
-  display: block;
+
   max-width: 80%;
   padding: 60;
  
@@ -113,7 +113,7 @@ margin: 100 auto;
 }
 
 #links{
-  display: block;
+  
   background-color: rgba(58, 27, 31, 1);
   padding-top: 15;
   padding-bottom: 5;
